@@ -44,3 +44,9 @@ if __name__ == '__main__':
 
 #tenemos q montar un server web en heroku, web: gunicorn app:app
 #tengo q montar mi estructura en heroku
+
+#Other/Other/7.25/6.83/7.17/7.00/7.17/0.11
+
+#https://coffemodel.herokuapp.com/Other/Other/7.25/6.83/7.17/7.00/7.17/0.11/
+#se tiene q levantar la maquina virtual, usando la cuenta del github
+#tiene q esta si o si el procfile
