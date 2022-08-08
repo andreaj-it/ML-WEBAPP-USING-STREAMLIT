@@ -41,3 +41,6 @@ if __name__ == '__main__':
 
 #tengo q tener la opcion de ventanas emerentes para q levante,
 #luego le paso por la url los valores tipo: urlxxx.io/Guatemala/Bourbon/7.83/7.77/7.33/7.67/7.77/0.11
+
+#tenemos q montar un server web en heroku, web: gunicorn app:app
+#tengo q montar mi estructura en heroku
